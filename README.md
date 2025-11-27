@@ -87,7 +87,8 @@ Interact with the content of any PDF using AI.
 
 ## 📫 Contact
 
-- **GitHub:** @christianjrk   
+- **GitHub:** @christianjrk
+  **Email:** christiannjaramillo96@gmail.com 
 
 ---
 
