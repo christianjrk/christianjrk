@@ -1,15 +1,21 @@
 # 👋 Hi, I’m Christian Jaramillo
 
-I’m a **Full-Stack Developer** focused on building modern, fast and scalable applications.  
-I enjoy creating clean UIs, powerful backends, and AI-powered features using the latest technologies.
+I’m a **self-taught Full-Stack Developer** with a strong focus on building modern, powerful and scalable applications.  
+I specialize in **React, Node.js, Express, MongoDB and AI-powered systems**, always aiming for high-quality, production-ready code.
+
+My mindset is simple:  
+**build, improve, and push beyond limits.**
 
 ---
 
 ## 🚀 About Me
-- 💡 Passionate about technology, learning, and building real projects  
-- 🧠 Strong interest in AI integration, automation and productivity tools  
-- ⚙️ Experienced in full-stack development (React + Node.js)  
-- 🎯 Currently working on: AI apps, voice processing tools, chatbot systems  
+
+- 📘 **Self-taught developer** — I’ve learned everything through real projects, consistency and determination  
+- ⚙️ I enjoy creating complete systems: frontend, backend, APIs, logic, deployment and architecture  
+- 🧠 Strong interest in **AI technologies**, automation and high-performance tools  
+- 🔥 Ambitious goals beyond a simple portfolio — I’m building **real, large-scale projects** for 2025  
+- 🧩 Passionate about problem-solving, clean UI and efficient backend logic  
+- 📈 I treat every project as a step toward mastering full-stack development and launching my own products
 
 ---
 
@@ -27,14 +33,14 @@ I enjoy creating clean UIs, powerful backends, and AI-powered features using the
 - Express  
 - REST APIs  
 - Authentication  
-- Routing / Middleware  
+- Middleware & Routing  
 
 ### **Databases**
 - MongoDB  
 - Mongoose  
 
 ### **AI & Tools**
-- Groq (LLaMA 3 models)  
+- Groq (LLaMA 3)  
 - OpenAI API  
 - ElevenLabs  
 - FFmpeg (audio processing)  
@@ -42,43 +48,48 @@ I enjoy creating clean UIs, powerful backends, and AI-powered features using the
 
 ### **Other Tools**
 - Git & GitHub  
-- Linux / Windows  
 - Postman  
 - VS Code  
+- Render / Vercel  
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🎧 **AI Voice FX**
-Full-stack application to apply voice effects (deep, bright, child, monster) using React + Node.js + FFmpeg.  
-👉 https://github.com/christianjrk/ai-voice-changer
+Full-stack app applying advanced audio effects (deep, bright, child, monster) using React + Node.js + FFmpeg.  
+👉 https://github.com/christianjrk/ai-voice-changer  
 
 ---
 
 ### 🤖 **AI Chatbot Template**
 Modern AI chatbot using Groq LLaMA-3 with a Vite + React frontend and a Node backend.  
-👉 https://github.com/christianjrk/ai-chatbot
+👉 https://github.com/christianjrk/ai-chatbot  
 
 ---
 
 ### 📄 **AI PDF Reader**
-Upload a PDF, process it with AI, and ask questions about its content.  
-👉 https://github.com/christianjrk/ai-pdf-reader
+Interact with the content of any PDF using AI.  
+👉 https://github.com/christianjrk/ai-pdf-reader  
 
 ---
 
-## 📈 Goals for 2025
-- Build 5–7 strong portfolio projects  
-- Improve TypeScript & backend architecture  
-- Learn mobile development (React Native)  
-- Get a full-time job as a **Full-Stack Developer**  
-- Build AI-powered micro-SaaS apps  
+## 🎯 Vision & Goals for 2025
+
+- 🚀 Build **large-scale AI applications** and advanced full-stack systems  
+- 🧠 Deepen expertise in backend architecture and high-performance APIs  
+- 📱 Learn mobile development (React Native)  
+- 💼 Land a full-time role as a Full-Stack Developer  
+- 💡 Launch my own **AI micro-SaaS products**  
+- 🔥 Keep growing as a self-taught developer with long-term ambitions
 
 ---
 
 ## 📫 Contact
 
-- **GitHub:** @christianjrk
+- **GitHub:** @christianjrk   
 
-⭐️ *Thanks for visiting my profile — feel free to explore my projects!*
+---
+
+⭐️ *Thanks for visiting my profile — feel free to explore my work. The journey has just started.*  
+
