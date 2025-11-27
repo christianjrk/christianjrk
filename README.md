@@ -9,7 +9,6 @@ I enjoy creating clean UIs, powerful backends, and AI-powered features using the
 - 💡 Passionate about technology, learning, and building real projects  
 - 🧠 Strong interest in AI integration, automation and productivity tools  
 - ⚙️ Experienced in full-stack development (React + Node.js)  
-- 📈 Focused on building a solid portfolio and landing my first developer role  
 - 🎯 Currently working on: AI apps, voice processing tools, chatbot systems  
 
 ---
